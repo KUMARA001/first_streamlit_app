@@ -1,6 +1,6 @@
 import streamlit
 import pondas
-Import requests
+import requests
 import snowflake.connector
 from urllib.error import URLError
 
